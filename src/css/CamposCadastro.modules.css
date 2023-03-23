@@ -1,0 +1,23 @@
+.btnVoltar {
+    color: #00B976;
+    background-color: #000;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 100px;
+    padding: 4px 0;
+    width: 12.5em;
+    font-size: 15px;
+    margin-top: 8px;
+}
+
+@media (min-width: 768px) {
+    .btnVoltar {
+        width: 11em;
+    }
+}
+
+@media (min-width: 1024px) {
+    .btnVoltar {
+        width: 12.5em;
+    }
+}
