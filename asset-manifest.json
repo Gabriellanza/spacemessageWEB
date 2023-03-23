@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.12af112f.css",
+    "main.js": "/static/js/main.8dee222f.js",
+    "static/media/spaceMessageLogo.jpeg": "/static/media/spaceMessageLogo.e7408c3ca0281ffc564f.jpeg",
+    "index.html": "/index.html",
+    "main.12af112f.css.map": "/static/css/main.12af112f.css.map",
+    "main.8dee222f.js.map": "/static/js/main.8dee222f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12af112f.css",
+    "static/js/main.8dee222f.js"
+  ]
+}
